@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salma Bahdad</h1>
 <h3 align="center">AI, ML & Data Science Specialist</h3>
 
-- 👀 I’m interested in **Artificial Intelligence, Machine Learning, Data Science**
+- 📚 I'm an AI and data science master's student
+  
+-  👀 I’m interested in **Artificial Intelligence, Machine Learning, Data Science**
 
 - 🌱 I’m currently learning **AI , NLP , LLMS**
 
@@ -12,6 +14,8 @@
 - 📫 How to reach me **bahdadsalma94@gmail.com**
 
 - ⚡ Fun fact **I make AI models smarter… and occasionally give them a personality too 🤖💖**
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
