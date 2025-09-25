@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salma Bahdad</h1>
 <h3 align="center">AI, ML & Data Science Specialist</h3>
 
-- 📚 I'm an AI and data science master's student
+- 📚 I'm an **AI and data science master's student**
   
 -  👀 I’m interested in **Artificial Intelligence, Machine Learning, Data Science**
 
