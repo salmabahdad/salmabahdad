@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **AI , NLP , LLMS**
 
-- 👨‍💻 All of my projects are available at [https://www.notavailable.](https://www.notavailable.)
-
 - 📝 Sometimes I write blogs on [https://withsalma.bearblog.dev](https://withsalma.bearblog.dev)
 
 - 📫 How to reach me **bahdadsalma94@gmail.com**
