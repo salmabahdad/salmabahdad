@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **bahdadsalma94@gmail.com**
 
-- ⚡ Fun fact **I make AI models smarter… and occasionally give them a personality too 🤖💖**
+- ⚡ Fun fact **I make AI models smarter… and occasionally give them a personality too 🤖**
   
 
 
