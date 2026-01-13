@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salma Bahdad</h1>
 
 - 📚 I'm an **AI and data science & engineering master's student**
-  
--  👀 I’m interested in **Artificial Intelligence, Machine Learning, Data Science**
-
-- 🌱 I’m currently learning **AI , NLP , LLMS**
-
-- 📝 Sometimes I write blogs on [https://withsalma.bearblog.dev](https://withsalma.bearblog.dev)
 
 - 📫 How to reach me **bahdadsalma94@gmail.com**
 
